@@ -2,7 +2,7 @@
 ## Smart School Canteen Queue
 ## Name: Karl Rafael O. Dy
 ## Section: 9 - Magnesium
-## Date: Date Completed
+## Date: 8/21/26
 
 
 ---
