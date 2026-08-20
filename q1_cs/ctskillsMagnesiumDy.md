@@ -27,9 +27,7 @@ Date: Date Completed
 | Sub-Problem | CT Skill | Proposed Solution |
 |---|---|---|
 | The cashier has to manually calculate the total amount and give change | Algorithmic Design | Design a program that adds the total prices, tax, and calculates the exact change.  |
-
-| There is no system for tracking which resources are running out. | Algorithmic Design and Data Representation. | Create an inventory database that updates resource quantities and alerts staff when it falls below a threshold. |
-
+| There is no system for tracking which resources are running out. | Algorithmic Design and Data Representation. | Create an inventory database that updates resource quantities and alerts staff when they fall below a threshold. |
 | It takes a long time for students to receive their orders. | Decomposition | Break down the ordering process into distinct micro-steps (Order placement, payment, food preparation, and pickup) to locate the exact problem and assign staff to each step. |
 
 ---
@@ -50,6 +48,5 @@ Add tax
 Subtract the total amount from the tender amount
 
 END
-
 
 E---
