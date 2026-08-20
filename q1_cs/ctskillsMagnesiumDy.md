@@ -1,9 +1,8 @@
 # Computational Thinking Exercise
 ## Smart School Canteen Queue
-Name: Karl Rafael O. Dy
-Section: 9 - Magnesium
-Last Name: Dy
-Date: Date Completed
+## Name: Karl Rafael O. Dy
+## Section: 9 - Magnesium
+## Date: Date Completed
 
 
 ---
