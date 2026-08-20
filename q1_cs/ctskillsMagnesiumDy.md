@@ -41,8 +41,10 @@ START
 Obtain the tender amount
 Obtain the quantity of items
 Obtain the prices of items
+
   For every item in the list:
     Keep adding until there is no item to add.
+
 Add tax
 Subtract the total amount from the tender amount
 
