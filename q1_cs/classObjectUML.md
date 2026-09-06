@@ -30,6 +30,7 @@
 # OOP Activity Part II
 
 | Attribute | Data Type | Visibility | Why Public/Private? |  
+|---|---|---|
 | Attack() | Allows the character to inflict damage on another individual |
 | Heal() | Recovers health |
 | Block() | Helps reduce damage from an attacker |
