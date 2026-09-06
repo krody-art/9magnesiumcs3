@@ -27,10 +27,12 @@
 ### Which method is the most useful? Why? Attack() since it is the most essential action of an RPG game.
 
 
-# OOP Activity Part II
-
-| Attribute | Data Type | Visibility | Why Public/Private? |  
+## OOP Activity Part II
+| Attribute | Data Type | Visibility | Why Public/Private? |
 |---|---|---|
-| Attack() | Allows the character to inflict damage on another individual |
-| Heal() | Recovers health |
-| Block() | Helps reduce damage from an attacker |
+| Health | Float | Every game character has this essential property in fighting games |
+| Stamina/Energy | Float | This is similar to the attribute "Health". Characters cannot perform certain actions without stamina. |
+| Role | String | Roles define a character's duties and responsibilities.|
+| Strength | Integer | Measures the raw power of a character and the numerical value of their physical attack. |
+| Magic Attack | Integer | Measures the capabilities of a character to perform witchcraft on individuals (elements) |
+| Opposition | True | Determines the chosen side of the player. |
