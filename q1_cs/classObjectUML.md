@@ -25,3 +25,11 @@
 ### Why did you choose this class? It is one of the most common examples in the realm of OOP. It encompasses the 4 major pillars, which are Encapsulation, Abstraction, Inheritance, and Polymorphism
 ### Which property is the most important? Why? Health and Strength, since it is the most fundamental property of a video game character
 ### Which method is the most useful? Why? Attack() since it is the most essential action of an RPG game.
+
+
+# OOP Activity Part II
+
+| Attribute | Data Type | Visibility | Why Public/Private? |  
+| Attack() | Allows the character to inflict damage on another individual |
+| Heal() | Recovers health |
+| Block() | Helps reduce damage from an attacker |
