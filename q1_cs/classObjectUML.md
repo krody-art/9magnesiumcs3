@@ -65,6 +65,30 @@
 | Online Status | False |
 
 ## Methods
-A support heals Hero 1 and does not heal Hero 2.
+A support heals (adds 10 to their health) Hero 1, but does not heal Hero 2.
 
+Hero 1:
+| Attribute | New Value |
+|---|---|
+| Health | **110** |
+| Stamina | 50 |
+| Role | Noobie Wizard |
+| Strength | 15 |
+| Magic Attack | 35 |
+| Currency | 150 |
+| Online Status | True |
 
+Hero 2:
+| Attribute | Value |
+|---|---|
+| Health | 50 |
+| Stamina | 150 |
+| Role | Intermediate Assassin |
+| Strength | 60 |
+| Magic Attack | 5 |
+| Currency | 400 |
+| Online Status | False |
+
+^ --- Retains
+
+<img width="1587" height="2245" alt="Blue and White Futuristic Page Border Portrait A3 Poster" src="https://github.com/user-attachments/assets/f1451202-d08b-443d-8b9b-4eafd43d9620" />
