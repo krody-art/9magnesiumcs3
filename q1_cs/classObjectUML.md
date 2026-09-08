@@ -9,7 +9,9 @@
 | Role | String | Roles define a character's duties and responsibilities.|
 | Strength | Integer | Measures the raw power of a character and the numerical value of their physical attack. |
 | Magic Attack | Integer | Measures the capabilities of a character to perform witchcraft on individuals (elements) |
-| Opposition | True | Determines the chosen side of the player. |
+| Currency | Integer |Can be used to purchase items. |
+| Online Status | Boolean | Determines if the player is online or not. |
+
 ## Methods
 | Method | Description |
 |---|---|
@@ -37,4 +39,15 @@
 | Online | True | Public | To know if the player is online or not.
 
 <img width="1920" height="1080" alt="Class Diagram (2)" src="https://github.com/user-attachments/assets/b05f7d45-d99e-4e4c-bed5-44b625b7c6f6" />
+
+## Step 6:
+Hero 1:
+Health = 100
+Stamina = 50
+Role = Noobie Wizard
+Strength = 15
+Magic Attack = 35
+Currency = 200
+Online Status = True
+
 
