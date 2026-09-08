@@ -29,7 +29,9 @@
 ## OOP Activity Part II
 | Attribute | Data Type | Visibility | Why Public/Private? |
 |---|---|---|---|
-| Health | Float | Every game character has this essential property in fighting games |
-| Stamina/Energy | Float | This is similar to the attribute "Health". Characters cannot perform certain actions without stamina. |
-| Role | String | Roles define a character's duties and responsibilities.|
-| Strength | Integer | Measures the raw power of a character and the numerical value of their physical attack. |
+| Health | Float | Public | For teammates to know what state the character is in. |
+| Stamina/Energy | Float | Public | For teammates to know what state the character is in. |
+| Role | String | Public | For strategy planning purposes. |
+| Strength | Integer | Private | Only the player knows the physical capabilites of their character |
+| Magic Attack | Integer | Private | Only the player knows the physical capabilites of their character |
+| Online | True | Public | To know if the player is online or not.
