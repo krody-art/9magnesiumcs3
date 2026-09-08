@@ -40,7 +40,7 @@
 
 <img width="1920" height="1080" alt="Class Diagram (2)" src="https://github.com/user-attachments/assets/b05f7d45-d99e-4e4c-bed5-44b625b7c6f6" />
 
-## Step 6:
+### Step 6:
 
 ## Hero 1:
 | Attribute | Value |
@@ -53,4 +53,24 @@
 | Currency | 200 |
 | Online Status | True |
 
+## Hero 2:
+| Attribute | Value |
+|---|---|
+| Health | 200 |
+| Stamina | 30 |
+| Role | Master Tank |
+| Strength | 10 |
+| Magic Attack | 0 |
+| Currency | 200 |
+| Online Status | True |
 
+## Hero 3:
+| Attribute | Value |
+|---|---|
+| Health | 50 |
+| Stamina | 150 |
+| Role | Intermediate Assassin |
+| Strength | 60 |
+| Magic Attack | 0 |
+| Currency | 100 |
+| Online Status | False |
