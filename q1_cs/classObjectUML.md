@@ -43,12 +43,14 @@
 ## Step 6:
 
 ## Hero 1:
-Health = 100
-Stamina = 50
-Role = Noobie Wizard
-Strength = 15
-Magic Attack = 35
-Currency = 200
-Online Status = True
+| Attribute | Value |
+|---|---|
+| Health | 100 |
+| Stamina | 50 |
+| Role | Noobie Wizard |
+| Strength | 15 |
+| Magic Attack | 35 |
+| Currency | 200 |
+| Online Status | True |
 
 
