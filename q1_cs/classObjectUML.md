@@ -35,3 +35,6 @@
 | Strength | Integer | Private | Only the player knows the physical capabilites of their character |
 | Magic Attack | Integer | Private | Only the player knows the physical capabilites of their character |
 | Online | True | Public | To know if the player is online or not.
+
+<img width="1920" height="1080" alt="Class Diagram (2)" src="https://github.com/user-attachments/assets/b05f7d45-d99e-4e4c-bed5-44b625b7c6f6" />
+
