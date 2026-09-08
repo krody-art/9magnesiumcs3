@@ -50,27 +50,21 @@
 | Role | Noobie Wizard |
 | Strength | 15 |
 | Magic Attack | 35 |
-| Currency | 200 |
+| Currency | 150 |
 | Online Status | True |
 
 ## Hero 2:
-| Attribute | Value |
-|---|---|
-| Health | 200 |
-| Stamina | 30 |
-| Role | Master Tank |
-| Strength | 10 |
-| Magic Attack | 0 |
-| Currency | 200 |
-| Online Status | True |
-
-## Hero 3:
 | Attribute | Value |
 |---|---|
 | Health | 50 |
 | Stamina | 150 |
 | Role | Intermediate Assassin |
 | Strength | 60 |
-| Magic Attack | 0 |
-| Currency | 100 |
+| Magic Attack | 5 |
+| Currency | 400 |
 | Online Status | False |
+
+## Methods
+A support heals Hero 1 and does not heal Hero 2.
+
+
