@@ -41,7 +41,8 @@
 <img width="1920" height="1080" alt="Class Diagram (2)" src="https://github.com/user-attachments/assets/b05f7d45-d99e-4e4c-bed5-44b625b7c6f6" />
 
 ## Step 6:
-Hero 1:
+
+## Hero 1:
 Health = 100
 Stamina = 50
 Role = Noobie Wizard
