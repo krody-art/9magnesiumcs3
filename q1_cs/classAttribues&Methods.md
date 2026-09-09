@@ -62,3 +62,18 @@ Hero 2:
 ^ --- Retains
 
 <img width="1587" height="2245" alt="Blue and White Futuristic Page Border Portrait A3 Poster" src="https://github.com/user-attachments/assets/f1451202-d08b-443d-8b9b-4eafd43d9620" />
+
+## Previous Design
+Link to my previous activity:
+[classObjectUML.md](classObjectUML.md)
+
+## Design Revision
+I added attributes and methods to my class and instantiated objects that have distinct values.
+
+## Analysis
+|  |  |
+|---|---|
+| Why did you make your chosen attribute private? | To protect data and control how other parts of a program use it, and to hide complex internal mechanisms and show only what the user needs to see. |
+| Which method changes the state of your object? | Mutator Method |
+| How did your two objects demonstrate that instances are independent? | Each object has its own values and is not affected when another object is altered. |
+| What is the difference between your class diagram and your object diagram? | A class diagram represents the structure or the blueprint of a system, while the object diagram represents the functionality of the class---Instantiating objects. |
