@@ -11,13 +11,20 @@ Description: Properties and actions of particular characters.
 Class: Loot and Equipment
 Description: Variation of loot obtained or bought for getting buffs or curses.
 ## Association
-Relationship: Inverse / Directly proportional
+# Relationship: 
+
+| CHARACTERS CONTAIN EQUIPMENT | Hero 1 ------- 0..*Loot
+|---|---|
+
 Explanation: Some equipment may change, increase, decrease, or remove certain attributes or make characters unable to perform specific actions.
 ## Multiplicity
 
 Multiplicity: 
-| Capacity |
-Explanation:
+| Capacity to equip weapons / miscellaneous items | Storage (Backpack) | 
+|---|---|
+| 0..1 | 0..50 |
+Explanation: Characters can equip 1 weapon or none at all, and can store a maximum of 50 items in their storage.
+
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
 ## Python Implementation
