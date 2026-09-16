@@ -5,17 +5,18 @@ Part I - Classes and Objects(q1_cs/classObjectUML.md)
 Part II - Class Attributes and Methods(q1_cs/classAttribues&Methods.md)
 
 ## Existing Class
-Class:
-Description:
+Class: RPG Video Game Characters
+Description: Properties and actions of particular characters.
 ## New Related Class
-Class:
-Description:
+Class: Loot and Equipment
+Description: Variation of loot obtained or bought for getting buffs or curses.
 ## Association
-Relationship:
-Explanation:
+Relationship: Inverse / Directly proportional
+Explanation: Some equipment may change, increase, decrease, or remove certain attributes or make characters unable to perform specific actions.
 ## Multiplicity
 
-Multiplicity:
+Multiplicity: 
+| Capacity |
 Explanation:
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](images/classRelationshipDiagram.png)
