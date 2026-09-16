@@ -26,7 +26,8 @@ Multiplicity:
 Explanation: Characters can equip 1 weapon or none at all, and can store a maximum of 50 items in their storage.
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](<img width="1920" height="1080" alt="Class Diagram" src="https://github.com/user-attachments/assets/ced71c2a-6675-4cf9-be90-488921b7600d" />)
+
 ## Python Implementation
 [View Python Source](classRelationships.py)
 ## Test Run
