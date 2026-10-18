@@ -6,4 +6,4 @@
 # Corporate email: krody@brc.pshs.edu.ph
 
 ## Q1: https://github.com/krody-art/9magnesiumcs3/tree/main/q1_cs
-## Q2: 
+## Q2: https://github.com/krody-art/9magnesiumcs3/tree/f4fcadcc3a7581bb2c6bb26e87753507319f0f45/q2_cs
