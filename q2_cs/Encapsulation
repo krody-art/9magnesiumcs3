@@ -1,1 +1,31 @@
+   class Bank_Account: #Creates a class called Bank_Account
+  def __init__(self, account_number, balance=0): #Initializes the class with account_number and balance attributes
+    self.__account_number = account_number
+    self.__balance = balance
+
+  @property
+  def account_number(self):
+    return self.__account_number
+
+  @property
+  def balance(self):
+    return self.__balance
+
+  @account_number.setter
+  def account_number(self, number):
+    self.__account_number = number
+
+  @balance.setter
+  def balance(self, amount):
+    if amount < 0:
+      raise ValueError("Balance cannot be negative")
+    self.__balance = amount
+
+  #---Example output---
+account = Bank_Account("263472", 100000)
+account.balance = 100000
+account.account_number = "263472"
+print(f"Account balance: {account.balance}\nAccount number: {account.account_number}")
+
+
 
