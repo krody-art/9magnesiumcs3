@@ -30,7 +30,21 @@ class Monkey(Animal):
   def eat(self):
     print(self.name, "Banana")
 
+    
 
-#lion1 = Lion("Simba)
-#lion1.make_sound
-#lion1.eat
+
+lion1 = Lion("Simba")
+elephant = Elephant("Dumbo")
+monkey = Monkey("George")
+
+print(lion.make_sound())
+print(lion.feed())
+print("-----")
+
+print(elephant.make_sound())
+print(elephant.feed())
+print("-----")
+
+print(monkey.make_sound())
+print(monkey.feed())
+print("-----")
