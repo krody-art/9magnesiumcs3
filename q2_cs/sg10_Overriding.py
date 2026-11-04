@@ -8,7 +8,8 @@ class Animal:            #Creates a class called Animal
   def make_sound(self): # Creates a function called "make_sound" (Methods)
     return self.name + " make sound"  # Returns the value of name and a value, which is "make sound".
 
-class Lion(Animal):  #Creates a subclass called "Lion" and inherits the attributes of the class "Animal"
+class Lion(Animal):   #Creates a subclass called "Lion" and inherits the attributes of the class "Animal"
+  @make_sound.getter
   def make_sound(self):  #Same function as class "Animal"
     return self.name + " roars loudly!"   # As you can observe here, we replace the value of animal with its own value---
 
